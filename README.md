@@ -8,6 +8,10 @@ Web page developed in the Alura's React course. This project is a modification (
 
 I hope you enjoy it!
 
+### Deploy
+
+http://gokus-family.vercel.app/
+
 ## How it works
 
 Enter information about a Dragon Ball character and create cards that will be grouped according to the familiarity with goku.
